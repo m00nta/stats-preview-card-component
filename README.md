@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution](https://your-solution-url.com)
-- Live Site URL: [live site](https://your-live-site-url.com)
+- Solution URL: [Solution](https://github.com/m00nta/stats-preview-card-component)
+- Live Site URL: [live site](https://m00nta.github.io/stats-preview-card-component/)
 
 ## My process
 
